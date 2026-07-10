@@ -3,7 +3,7 @@ import { countries } from "@/lib/countries";
 import Tilt from "react-parallax-tilt";
 export default function BackgroundFlags() {
   return (
-    <div className="absolute inset-0 z-0 overflow-hidden p-1">
+    <div className="absolute blur-100 inset-0 z-0 overflow-hidden p-1">
 
       <div className="grid grid-cols-10 gap-2 justify-items-center">
 

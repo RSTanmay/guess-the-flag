@@ -18,7 +18,7 @@ export default function Home() {
   border border-white/30
   bg-white
   backdrop-blur-xl
-  shadow-[0_20px_60px_rgba(0,0,0,0.25)]
+  shadow-[0_0_100px_rgba(0,0,0,0.4)]
   p-12
   text-center
   pointer-events-auto
